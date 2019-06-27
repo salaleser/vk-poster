@@ -6,8 +6,8 @@ https://oauth.vk.com/authorize?client_id=2890984&scope=market,notify,photos,frie
 */
 
 import (
-	"github.com/salaleser/poster/command"
-	"github.com/salaleser/poster/gui"
+	"github.com/salaleser/vk-poster/command"
+	"github.com/salaleser/vk-poster/gui"
 
 	"github.com/google/gxui/drivers/gl"
 )

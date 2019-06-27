@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/salaleser/poster/logger"
+	"github.com/salaleser/vk-poster/logger"
 
 	"github.com/google/gxui"
 	"github.com/google/gxui/math"

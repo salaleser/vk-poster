@@ -4,9 +4,9 @@ import (
 	"log"
 
 	"github.com/google/gxui"
-	"github.com/salaleser/poster/command"
-	"github.com/salaleser/poster/logger"
 	"github.com/salaleser/vk-api/method"
+	"github.com/salaleser/vk-poster/command"
+	"github.com/salaleser/vk-poster/logger"
 )
 
 var (

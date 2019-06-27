@@ -7,10 +7,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/salaleser/poster/logger"
 	"github.com/salaleser/vk-api/method/market"
 	"github.com/salaleser/vk-api/method/photos"
 	"github.com/salaleser/vk-api/util"
+	"github.com/salaleser/vk-poster/logger"
 )
 
 // AddProduct загружает данные из указанного файла в сообщество

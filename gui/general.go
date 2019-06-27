@@ -4,8 +4,8 @@ import (
 	"github.com/google/gxui"
 	"github.com/google/gxui/math"
 	"github.com/google/gxui/samples/flags"
-	"github.com/salaleser/poster/command"
-	"github.com/salaleser/poster/logger"
+	"github.com/salaleser/vk-poster/command"
+	"github.com/salaleser/vk-poster/logger"
 )
 
 const (

@@ -3,11 +3,11 @@ package command
 import (
 	"strconv"
 
-	"github.com/salaleser/poster/logger"
-	"github.com/salaleser/poster/parser"
 	"github.com/salaleser/vk-api/method/groups"
 	"github.com/salaleser/vk-api/method/market"
 	"github.com/salaleser/vk-api/method/wall"
+	"github.com/salaleser/vk-poster/logger"
+	"github.com/salaleser/vk-poster/parser"
 )
 
 const defaultOwnerID = "171524015"

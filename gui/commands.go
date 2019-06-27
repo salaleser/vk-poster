@@ -3,10 +3,10 @@ package gui
 import (
 	"path/filepath"
 
-	"github.com/salaleser/poster/command"
-	"github.com/salaleser/poster/logger"
-	"github.com/salaleser/poster/parser"
 	"github.com/salaleser/vk-api/util"
+	"github.com/salaleser/vk-poster/command"
+	"github.com/salaleser/vk-poster/logger"
+	"github.com/salaleser/vk-poster/parser"
 
 	"github.com/google/gxui"
 )

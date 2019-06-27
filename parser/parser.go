@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/salaleser/poster/logger"
+	"github.com/salaleser/vk-poster/logger"
 )
 
 // Args описывает объект с аргументами
